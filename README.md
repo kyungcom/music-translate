@@ -36,7 +36,7 @@ kt AIVLE 스쿨에서 배운 api사용법과 크롤링 selenium 사용법을 복
 git clone 해주세요
 
 ```
-git clone https://github.com/kyungcom/MapDairy.git
+git clone https://github.com/kyungcom/music-translate.git
 ```
 ### 3-3. chrome driver 설치
 ![image](https://user-images.githubusercontent.com/72953874/183106356-eb42ebfc-e36a-40cd-adef-b9ca4b1a94df.png)
