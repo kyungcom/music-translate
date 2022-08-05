@@ -58,7 +58,8 @@ CLIENT_SECRET = ?
 translate.py를 실행하시면 끝입니다.
 
 ## 실행결과
-![image](https://user-images.githubusercontent.com/72953874/183106217-8fa5196c-4174-4234-9eec-c2b5336bf596.png)
+![image](https://user-images.githubusercontent.com/72953874/183108081-68d740c4-579a-4ac8-a358-0961ac99d700.png)
+
 
 
 ## License

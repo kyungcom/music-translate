@@ -26,7 +26,7 @@ else:
     lyrics_params = {
         "source" : response.json()["langCode"],
         "target" : "ko",
-        "text" : searchMusic.lyric,
+        "text" : searchMusic.lyric.replace("\n", " "),
     }
 
     response = requests.post(lyrics_url, json.dumps(lyrics_params), headers=headers)
