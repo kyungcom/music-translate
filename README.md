@@ -60,6 +60,8 @@ translate.py를 실행하시면 끝입니다.
 ## 실행결과
 ![image](https://user-images.githubusercontent.com/72953874/183108081-68d740c4-579a-4ac8-a358-0961ac99d700.png)
 
+![image](https://user-images.githubusercontent.com/72953874/183108481-ba8cf704-78bb-4629-8684-37a9f51a7f15.png)
+
 
 
 ## License
